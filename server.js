@@ -22,7 +22,7 @@ const  regMemberSchema = new mongoose.Schema({
   mobile_num : {type: String},
   nic : {type:String},
   dob : {type:String},
-  gender : {type:String},
+  gender : {type:String},gd
   outlet_name : {type:String},
   address : {type:String},
   city : {type:String},
